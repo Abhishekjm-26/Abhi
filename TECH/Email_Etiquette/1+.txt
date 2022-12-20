@@ -1,0 +1,75 @@
+Have you been a part of any tech projects in the past? If yes, what were your roles and responsibilities? *
+
+-> I was selected for Google Developer Student Club Core member last year. The first project we have started was FULL STACK WEB DEVELOPMENT. The team was divided into Research team, UI/UX team,
+& coding team. Initially I was the Researcher. My job was to collect all the stuffs required for a Developer Club website. Considering my contribution, my lead promoted me as a Project Management lead.
+Here I had to Perform Tasks central to program process, including scheduling & resource management. And also my job was to focus on towards every team working standards, And contribute myself for every team. I introduced two more teams for the project; whuich are Marketing and Communication.
+Here markerters & C0mmunicators were subjected to promote the club w.r.t Technical Stuffs by means of Infographics and posters. This position was very challenging to me. And I gave justice to my 
+role efficiently. I Consistently Met Deadlines with the team achieving commendations for 1 consecutive month. The other projects we have worked on were AI Chatbot, Facial Recognition. And organized many technical events for college intellectuals. 
+Now proudly I can say that for this academic year I am selcted as Google Developer Student CLub Lead for my college.   
+
+
+
+
+
+
+What factors will you take into consideration while assessing the potential of a tech program/ collaboration? *
+Being a Avaricious is the only thought everyone thinks when it comes to collaboration. Which is a mediocrity.
+Excluding this factor; my other considerable factors are:
+1) Maturity: Its very important to be matured as a team or an individual by taking any decisions which are sensibe.
+2) Provenance: While coming up with new ideas & initiatives, it can be risky to rely on group decision which can go uncertain. It's very important for one indiviual to take the final call.
+3) Support: If something goes wrong how many people can solve the problem? Considering a Tech Program, with the moral support, technical supoort is very essential. 
+4) Reliability & Avalaibility: Being consistent & available during breakdown is very importat.
+5) Ease of implementation: Implementation of any tech idea has to be implemented in efficient way without complications. 
+6) Contribution: Giving a real example; I have applied for Google Summer of Code 2021, the objective of the program was to contribute something our idea towards a particular project. 
+Here I only gave them the idea with a decent project propoal and a prototype but I have not contributed. I mean its not only the idea we give but also our contribution which has to make sound.
+    
+
+
+Tell us about an innovation/ project you are currently working upon. *
+Currently I am not working on any particular project. But I would like to talk about one of the interesting project I have worked on.
+1) Web Sockets: This was the project devloped during my Software Internship  @ Eakya Tech Private Limited. HTTP was one such protocol used for Unidirectional communication between client and the server. Implementing web socket was very challenging.
+This project demanded best system & browser compatibility. This WEBSOCKET[WS] protocol will be used in chat applications. Implmenting it during my internship for the company since it's a paid internship was facinating.
+
+2) Railway Reservation Frame Work & Prison Management System: These are not innovative projects whereas these projects helped me in analyzing how to approch a project implementation milestones
+in a stipulated amount of time. Railway project was developed in java as a console based application which objectifies Railway Reservation system as a whole and allows admin to book tickets accordingly using java collection framework.
+Whereas Prison Management system was developed using C++ as a conslole based application which objectifies efffective management of Prisoners using the technique of File Structures. 
+
+ 
+
+Who you are and why you should be selected
+
+The World cannot be changed by a single person they said;
+But one person is enough to initiate the change I replied;
+And that is possible by building and leading a great community.
+
+Hey one plus! I am Abhishek J M currently persuing my Bachelors in Information
+Technology @ J N N College of Engineering Shimoga. 
+This is my Round 2 application video for 1+ Student ambassador program 2021.
+
+I beleive that I am more enthusiastic and positive person who is trying to build necessary
+skills and qualities for the successful completion of my carrer. Technology growth are inevitable and fascinating.
+
+Hence being a tech enthusiast I feel AI and ml more interesting, becuase as we all know it is the future of our mankind.
+As a techi For programming I prefer Python language and apart from that web development is my key interest.
+
+Talking about my experience Currently I am also an onboarded Google Developer Student CLub lead at my college who is very passionate
+about evolving technologies. And also I have Coordinated 1 month of internship at my college for 
+college intellectuals regarding Machine learning in association with computer society of india..
+
+I was also the part of Google developer student club as a Researcher and Project management lead last year and 
+spreadheaded 2 projects which are Full stack web development and dialogflow which is an AI CHATBOT.
+
+And also me and my team ourselves organized many events at my college for completely 
+free of cost in association with google developer student club.
+
+Concluding with I would like to contibute myself as a Tech Innovator in 
+Student Ambassador program of 1+ for this year and help the community to reach greater heights..
+
+Finally I would like to thank 1+ SAP team for giving me this opportunity to take part in second round. 
+Thank you so much.
+
+
+
+
+
+

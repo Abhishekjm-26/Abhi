@@ -1,0 +1,94 @@
+#email
+
+Job Application - <Role(Job Id:XXXX)> 
+
+Hi <name || organization>,
+
+This is with reference to <Job_ID> of <Role> listed by 
+<Company_Name> on <XYZ> portal.
+
+I went through the requirements, roles and responsibilities mentioned in
+the job description based on which I believe that I could be a good fit for 
+the role, considering my learning, experience and educational background.
+
+As a <Role_in_current_company> at <Company_Name>, I can implement cutting-edge
+engineering concepts to design innovative and ingenious products for consumers.
+
+I have attached my resume for the reference and consideration. Please take a
+moment to go through them to get a picture of how I can provide value to the 
+organization.
+
+I would love to talk in more detail regarding this fantastic opportunity
+at the company. It would give me great pleasure to hear back and get 
+interviewed for the above mentioned or similar roles.
+
+Thanks & Regards
+Abhishek J M
+Ph.No: +917019120854
+Email: abhishekjm26@gmail.com
+Resume: https://bit.ly/3AE2kWc
+
+----------------------------------------------------------------------------------
+#referral
+
+Job Application[Referral] - <Role(Job Id:XXXX)> 
+
+Hi <name || organization>,
+
+This is with reference to <Job_ID> of <Role> listed by 
+<Company_Name> on <XYZ> portal.
+
+I went through the requirements, roles and responsibilities mentioned in
+the job description based on which I believe that I could be a good fit for 
+the role, considering my learning, experience and educational background.
+
+As a <Role_in_current_company> at <Company_Name>, I can implement cutting-edge
+engineering concepts to design innovative and ingenious products for consumers.
+
+I have attached my resume for the reference and consideration. Please take a
+moment to go through them to get a picture of how I can provide value to the 
+organization and refer me for the designated role.
+
+I would love to talk in more detail regarding this fantastic opportunity
+at the company. It would give me great pleasure to hear back and get 
+interviewed for the above mentioned or similar roles.
+
+Thanks & Regards
+Abhishek J M
+Ph.No: +917019120854
+Email: abhishekjm26@gmail.com
+Resume: https://bit.ly/3AE2kWc
+
+-----------------------------------------------------------------------------------
+#referral_student
+Job Application[Referral] - <Role(Job Id:XXXX)> 
+
+Hi <name || organization>,
+
+This is with reference to <Job_ID> of <Role> listed by 
+<Company_Name> on <XYZ> portal.
+
+I went through the requirements, roles and responsibilities mentioned in
+the job description based on which I believe that I could be a good fit for 
+the role, considering my learning, experience and educational background.
+
+Since I have recently graduated, As a fresher, I can implement cutting-edge
+engineering concepts to design innovative and ingenious products for consumers.
+
+I have attached my resume for the reference and consideration. Please take a
+moment to go through them to get a picture of how I can provide value to the 
+organization and refer me for the designated role.
+
+I would love to talk in more detail regarding this fantastic opportunity
+at the company. It would give me great pleasure to hear back and get 
+interviewed for the above mentioned or similar roles.
+
+Thanks & Regards
+Abhishek J M
+Ph.No: +917019120854
+Email: abhishekjm26@gmail.com
+Resume: https://bit.ly/3AE2kWc
+
+
+
+
